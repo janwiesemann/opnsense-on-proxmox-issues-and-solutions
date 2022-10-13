@@ -1,0 +1,14 @@
+{
+    "files.encoding": "utf8bom",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "markdown.extension.toc.omittedFromToc": {
+        /* These sections will be excluded from the Table of Contents in 'README.MD' */
+        "README.MD": [
+            "# Introduction",
+            "# Content"
+        ]
+    },
+    "markdown.extension.toc.updateOnSave": true
+}
